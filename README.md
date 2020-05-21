@@ -1,4 +1,4 @@
-# Overview
+# Overview [![Build Status](https://travis-ci.com/heniam/simple-express.svg?branch=master)](https://travis-ci.com/heniam/simple-express)
 This is a very simple, bare-bones NodeJS and ExpressJS project created for you to use with Docker.
 
 # Local Setup
